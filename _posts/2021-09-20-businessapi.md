@@ -24,8 +24,8 @@ Y una vez que tienes ese proceso definido puedes hacer varias cosas:
 
 Esta combinación de Inteligencia artificial con el uso de API's va a automatizar y simplificar el proceso de consultoría y también permitir a gente tener acceso a la tecnología de una manera más sencilla (se podría incluso contactar con un chatbot para utilizar la API)
 
-[1] https://www.youtube.com/watch?v=eXAsCKSJir8
-[2] https://www.youtube.com/watch?v=awnn-bqV_Tw
-[3] https://www.ibm.com/garage/method/practices/code/chunking-strategy-strangler-pattern/
-[4] https://colab.research.google.com/github/r9y9/Colaboratory/blob/master/DeepVoice3_single_speaker_TTS_en_demo.ipynb
-[5] https://www.youtube.com/watch?v=SGUCcjHTmGY
+- [1] https://www.youtube.com/watch?v=eXAsCKSJir8
+- [2] https://www.youtube.com/watch?v=awnn-bqV_Tw
+- [3] https://www.ibm.com/garage/method/practices/code/chunking-strategy-strangler-pattern/
+- [4] https://colab.research.google.com/github/r9y9/Colaboratory/blob/master/DeepVoice3_single_speaker_TTS_en_demo.ipynb
+- [5] https://www.youtube.com/watch?v=SGUCcjHTmGY
