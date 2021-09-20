@@ -1,7 +1,7 @@
---------
+---
 title: Business API
 author: dmunicio, rezpe
---------
+---
 
 Hay muchos vídeos y artículos de blog de gente que te cuentan como han delegado completamente todas las acciones de creación o de consultoría a un servicio externo como Fiverr o Upwork [1].
 
