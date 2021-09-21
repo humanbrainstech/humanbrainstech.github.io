@@ -27,8 +27,6 @@ disqus: false
 # Build settings
 markdown: kramdown
 
-#exclude: [CHANGELOG.md, LICENSE, README.md, Gemfile, Gemfile.lock]
+exclude: [CHANGELOG.md, LICENSE, README.md, Gemfile, Gemfile.lock]
 
-#plugins:
-#  - jekyll-feed
 

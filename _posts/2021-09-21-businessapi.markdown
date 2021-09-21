@@ -4,7 +4,6 @@ title:  "Business API"
 date:   2021-09-21 17:42:46
 categories: General
 author: humanbrains
-highlight: true
 image: ../assets/img/post_images/einstein.jpg
 ---
 Hay muchos vídeos y artículos de blog de gente que te cuentan como han delegado completamente todas las acciones de creación o de consultoría a un servicio externo como Fiverr o Upwork [1].
