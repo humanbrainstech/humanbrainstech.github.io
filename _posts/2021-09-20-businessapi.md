@@ -27,5 +27,5 @@ Esta combinación de Inteligencia artificial con el uso de API's va a automatiza
 - [1] https://www.youtube.com/watch?v=eXAsCKSJir8
 - [2] https://www.youtube.com/watch?v=awnn-bqV_Tw
 - [3] https://www.ibm.com/garage/method/practices/code/chunking-strategy-strangler-pattern/
-- [4] https://colab.research.google.com/github/r9y9/Colaboratory/blob/master/DeepVoice3_single_speaker_TTS_en_demo.ipynb
+- [4] https://en.wikipedia.org/wiki/Speech_synthesis
 - [5] https://www.youtube.com/watch?v=SGUCcjHTmGY
