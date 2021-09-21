@@ -1,8 +1,12 @@
 ---
-title: Business API
-author: dmunicio, rezpe
+layout: post
+title:  "Business API"
+date:   2021-09-21 17:42:46
+categories: General
+author: humanbrains
+highlight: true
+image: ../assets/img/post_images/einstein.jpg
 ---
-
 Hay muchos vídeos y artículos de blog de gente que te cuentan como han delegado completamente todas las acciones de creación o de consultoría a un servicio externo como Fiverr o Upwork [1].
 
 Upward y sobre todo Fiverr han mostrado como puedes construir productos a partir de trabajos de consultoría. Algo que Ali Abdaal recomienda: es mejor tener un producto definido que un servicio por horas [2].
